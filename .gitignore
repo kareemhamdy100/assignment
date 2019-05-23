@@ -92,6 +92,9 @@ celerybeat-schedule
 venv/
 ENV/
 assignment/
+Include/
+Scripts/
+tcl/
 
 # Spyder project settings
 .spyderproject
@@ -105,6 +108,6 @@ db.sqlite3
 
 #developer
 notes.txt
-
+pip-selfcheck.json
 #pass
 pass.txt
